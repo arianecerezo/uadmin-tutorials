@@ -1,4 +1,4 @@
-module github.com/arianecerezo/uadmin-tutorial
+module github.com/arianecerezo/uadmin-tutorials
 
 go 1.24.1
 
